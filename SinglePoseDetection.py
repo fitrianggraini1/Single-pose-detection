@@ -1,6 +1,6 @@
 import tensorflow as tf
 import tensorflow_hub as hub
-import opencv-python
+import cv2
 from matplotlib import pyplot as plt
 import numpy as np
 
