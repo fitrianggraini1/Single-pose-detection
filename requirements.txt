@@ -6,3 +6,4 @@ numpy
 streamlit
 pipdeptree
 python
+pip
