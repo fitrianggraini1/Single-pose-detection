@@ -4,3 +4,4 @@ opencv-python
 matplotlib
 numpy
 streamlit
+pipdeptree
