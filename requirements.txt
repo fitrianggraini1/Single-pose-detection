@@ -1,5 +1,5 @@
 tensorflow
-tensorflow tensorflow_hub
+tensorflow_hub
 opencv-python
 matplotlib
 numpy
