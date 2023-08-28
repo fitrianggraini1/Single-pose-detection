@@ -1,5 +1,5 @@
 tensorflow
 tensorflow_hub
 opencv-python
-pyplot
+matplotlib
 numpy
