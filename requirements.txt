@@ -3,7 +3,4 @@ tensorflow tensorflow_hub
 opencv-python
 matplotlib
 numpy
-streamlit
-pipdeptree
-python
-pip
+
